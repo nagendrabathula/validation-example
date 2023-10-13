@@ -47,8 +47,8 @@ public class SwaggerConfig {
     }
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-            .title("Olive Crypto Systems")
-            .description("Document For Vpay")
+            .title("All About Apis")
+            .description("Document For AAA")
             .version("1.0")
             .termsOfServiceUrl("http://terms-of-services.url")
             .license("LICENSE")
